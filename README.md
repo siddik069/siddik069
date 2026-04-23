@@ -22,7 +22,7 @@
 
 ## 🌟 About Me
 
-I'm a **Penetration Tester** and **Cybersecurity Enthusiast** based in Dhaka, Bangladesh, passionate about making the digital world safer. With hands-on experience in offensive security, vulnerability assessment, and ethical hacking, I identify weaknesses before attackers do.
+I'm a **Penetration Tester** and **Cybersecurity Expert** based in Dhaka, Bangladesh, passionate about making the digital world safer. With hands-on experience in offensive security, vulnerability assessment, and ethical hacking, I identify weaknesses before attackers do.
 
 🔐 I enjoy combining security knowledge with scripting to build custom tools, automate assessments, and dig deep into how systems can be broken — and then fixed.
 
